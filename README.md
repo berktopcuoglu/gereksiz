@@ -1,2 +1,0 @@
-# gereksiz
-ilk deneme
